@@ -1,4 +1,4 @@
-/* GENERAL */
+
 body {
   margin: 0;
   font-family: Arial, sans-serif;
@@ -7,7 +7,7 @@ body {
   text-align: center;
 }
 
-/* NAVBAR */
+
 .navbar {
   background: white;
   padding: 20px 0;
@@ -36,7 +36,7 @@ body {
   border-radius: 50px;
 }
 
-/* HERO SECTION */
+
 .hero {
   padding: 60px 20px;
   background-color: #0ea6a6;
@@ -46,7 +46,7 @@ body {
   text-align: center;
 }
 
-/* TITLE IMAGE */
+
 .title-img {
   width: 55%;
   max-width: 600px;
@@ -54,7 +54,7 @@ body {
   margin: 0 auto 30px auto;
 }
 
-/* BOOK BUTTON */
+
 .book-btn {
   background: white;
   color: #008080;
@@ -68,7 +68,7 @@ body {
   margin-top: 20px;
 }
 
-/* DESCRIPTION TEXT */
+
 .description {
   margin-top: 40px;
   font-size: 18px;
